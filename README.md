@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l41JWw65TcBGjPpRK/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3o6Mb3Zy1Tl7O6ocBa/giphy.gif" width="100"/>
 </div>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
